@@ -1,5 +1,5 @@
 {
-  "name": "playground",
+  "name": "wallets",
   "version": "1.0.0",
   "description": "just for project",
   "main": "app.js",
@@ -7,7 +7,7 @@
     "test": "test",
     "dev-server": " nodemon --exec babel-node ./server.js"
   },
-  "author": "",
+  "author": "didi",
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.18.9",
